@@ -1,6 +1,6 @@
 # Custom-Python-Calculator-Assessment
 
 
-## Design Decisions:
+### Design Decisions:
 - Age Group for calculator is Intermidiate level
 * whichs is 
