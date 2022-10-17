@@ -4,4 +4,6 @@
 ### Design Decisions:
 - Age Group for calculator is Intermidiate students (11-13yrs old)
 
-- Colourful because it would be easier for Intermidiate students to read
+- I have chosen the background colour to be red because it is colourful.
+- The reason that i chose the "+,-,x,/,=,. and Reset" buttons to be Green was because it is the complimentary colour for red.
+- The reason that i chose the numbers to be yellow was so that it compliments the background but so that is easier for 11-13yr olds to tell the difference between the control buttons and the numbers.
