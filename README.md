@@ -1,4 +1,4 @@
-# Custom-Python-Calculator-Assessment
+# Custom Python Calculator Assessment
 
 ## The Project
 This project is custom python calculater, using PYTHON we created this GUI (Graphical User Interface)
