@@ -7,8 +7,8 @@ Tui Marvel Howe: Designing a custom python calculater
 
 # Custom Python Calculator Assessment
 
-## The Project
-This project is custom python calculater, using PYTHON we created this GUI (Graphical User Interface)
+## About my Project
+This project is custom python calculater, using PYTHON we created this GUI (Graphical User Interface) and with colours
 
 ### Design Decisions:
 - Age Group for calculator is **Intermediate students** (11-13yrs old)
