@@ -57,7 +57,7 @@ equation_text = ""
 
 equation_label = StringVar()
 
-label = Label(window, textvariable=equation_label, font=('console', 20), bg="#B81414", width=24, height=1)
+label = Label(window, textvariable=equation_label, font=('console', 20), bg="#03EC06", width=24, height=1)
 label.pack()
 
 frame = Frame(window)
@@ -110,16 +110,16 @@ divide.grid(row=3, column=3)
 
 # Create equals button
 
-equal = Button(frame, bg = "#F8FF00", text='Equals', height=4, width=9, font=35, command=equals)
+equal = Button(frame, bg = "#03EC06", text='=', height=4, width=9, font=35, command=equals)
 equal.grid(row=3, column=2)
 
 # Create the decimal button
-decimal = Button(frame, bg = "#F8FF00", text='.', height=4, width=9, font=35, command=lambda: button_press('.'))
+decimal = Button(frame, bg = "#03EC06", text='.', height=4, width=9, font=35, command=lambda: button_press('.'))
 decimal.grid(row=3, column=1)
 
 # Create the clear button
 
-clear = Button(window, bg = "#F8FF00", text='New Sum', height=4, width=9, font=35, command=clear)
+clear = Button(window, bg = "#03EC06", text='Reset', height=4, width=9, font=35, command=clear)
 clear.pack()
 
 window.mainloop()
