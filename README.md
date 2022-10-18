@@ -18,4 +18,4 @@ This project is custom python calculater, using PYTHON we created this GUI (Grap
 - The reason that I chose the numbers to be **yellow** was so that it compliments the background but so that is easier for 11-13yr olds to tell the difference between the control buttons and the numbers.
 
 ### Operations and Symbols
-The operations and symbols are simple because they most likely don't what **"*"** means
+- The operations and symbols are simple because they most likely don't what **"*"** means
