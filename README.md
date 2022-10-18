@@ -3,10 +3,6 @@ Tui Marvel Howe: Developing a custom python calculater
 ---
 
 
-
-
-
-
 # Custom Python Calculator Assessment
 
 ## About my Project
