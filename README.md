@@ -1,5 +1,5 @@
 ---
-Tui Marvel Howe: Developing a custom python calculater
+Author - Tui Marvel Howe: Design and develop a custom python calculater
 ---
 
 
