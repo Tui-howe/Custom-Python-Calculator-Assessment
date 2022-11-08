@@ -6,7 +6,7 @@ Author - Tui Marvel Howe: Design and develop a custom python calculater
 # Custom Python Calculator Assessment
 
 ## About my Project
-This project is custom python calculater. using PYTHON I created a calculator for 11 - 13yr olds that had larger buttons for easier use, had complimentary colours to seperate the different buttons and I also decided to use simpler signs for students of all abilities to use. 
+This project is custom python calculater. using PYTHON I created a calculator for 11 - 13yr olds that has larger buttons for easier use, complimentary colours to seperate the different buttons and I also decided to use simpler signs for students of all abilities to use. 
 
 ### Design Decisions:
 - Age Group for calculator is **Intermediate students** (11-13yrs old)
