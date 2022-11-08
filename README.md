@@ -10,7 +10,7 @@ This project is custom python calculater. using PYTHON I created a calculator fo
 
 ### Design Decisions:
 - Age Group for calculator is **Intermediate students** (11-13yrs old)
-- Colour was made by using https://www.w3schools.com/colors/colors_picker.asp
+- Colours that were chosen were made by using [**w3schools**](https://www.w3schools.com/colors/colors_picker.asp)
 
 ### Layout
 Here is a image of my design
