@@ -10,6 +10,10 @@ This project is custom python calculater. using PYTHON I created a calculator fo
 
 ### Design Decisions:
 - Age Group for calculator is **Intermediate students** (11-13yrs old)
+- Colour was made by using https://www.w3schools.com/colors/colors_picker.asp
+
+### Layout
+Here is a image of my design
 
 - I have chosen the background colour to be **red** because it is colourful.
 - The reason that I chose the **"+,-,x,/,=,. and Reset"** buttons to be **Green** was because it is the complimentary colour for red.
@@ -17,3 +21,4 @@ This project is custom python calculater. using PYTHON I created a calculator fo
 
 ### Operations and Symbols
 - The operations and symbols are simple because they most likely don't what **"*"** means
+
