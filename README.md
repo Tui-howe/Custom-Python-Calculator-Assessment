@@ -14,7 +14,7 @@ This project is custom python calculater. using PYTHON I created a calculator fo
 
 ### Layout
 Here is a image of my design
-<a href="task"><image src="https://
+<a href="task"><image src="https://github.com/Tui-howe/Custom-Python-Calculator-Assessment/blob/main/Calculator_Design_LOFI.jpg?raw=true" title="The task" width=500>
 
 - I have chosen the background colour to be **red** because it is colourful.
 - The reason that I chose the **"+,-,x,/,=,. and Reset"** buttons to be **Green** was because it is the complimentary colour for red.
