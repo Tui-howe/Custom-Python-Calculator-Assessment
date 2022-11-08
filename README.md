@@ -13,7 +13,8 @@ This project is custom python calculater. using PYTHON I created a calculator fo
 - Colours that were chosen were made by using [**w3schools**](https://www.w3schools.com/colors/colors_picker.asp)
 
 ### Layout
-Here is a image of my design
+Here is a image of my design for this calculator:
+
 <a href="task"><image src="https://github.com/Tui-howe/Custom-Python-Calculator-Assessment/blob/main/Calculator_Design_LOFI.jpg?raw=true" title="The task" width=500>
 
 - I have chosen the background colour to be **red** because it is colourful.
