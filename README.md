@@ -21,4 +21,4 @@ This project is custom python calculater. using PYTHON I created a calculator fo
 ### Layout
 Here is a image of my design for this calculator:
 
-<a href="task"><image src="https://github.com/Tui-howe/Custom-Python-Calculator-Assessment/blob/main/Calculator_Design_LOFI.jpg?raw=true" title="The task" width=400>
+<a href="task"><image src="https://github.com/Tui-howe/Custom-Python-Calculator-Assessment/blob/main/Calculator_Design_LOFI.jpg?raw=true" title="The task" width=300>
